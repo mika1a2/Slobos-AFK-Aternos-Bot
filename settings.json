@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "mika1ab2ab-1VKc.aternos.me:45647",
+    "ip": "mika1ab2ab-1VKc.aternos.me",
     "port": 45647,
     "version": "",
     "try-creative": false
